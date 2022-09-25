@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Wed Aug 10 10:23:59 2022
+Invocation: foremost Hmm.jpeg 
+Output directory: /opt/hacking/compfest/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: Hmm.jpeg
+Start: Wed Aug 10 10:23:59 2022
+Length: 682 KB (698588 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.wav 	     682 KB 	          0 	 
+Finish: Wed Aug 10 10:23:59 2022
+
+1 FILES EXTRACTED
+	
+rif:= 1
+------------------------------------------------------------------
+
+Foremost finished at Wed Aug 10 10:23:59 2022

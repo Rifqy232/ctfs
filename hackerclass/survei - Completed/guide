@@ -1,0 +1,3 @@
+cari address flag di gdb -> info address flag -> 0x601080
+convert address flag ke dalam decimal -> 6295680
+input nilai decimal flag ke dalam program

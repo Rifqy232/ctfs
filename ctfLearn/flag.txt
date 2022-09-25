@@ -1,0 +1,4 @@
+ABCTF{T3Rm1n4l_is_C00l}
+ABCTF{b1nw4lk_is_us3ful}
+CTFlearn{this_is_fun}
+CTFlearn{xor_is_your_friend}

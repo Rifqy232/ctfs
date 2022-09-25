@@ -1,0 +1,25 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sun Nov 21 22:05:26 2021
+Invocation: foremost Forensics is fun.pptm 
+Output directory: /home/ryu/Documents/hacking/picoCTF/MacroHard WeakEdge/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: Forensics is fun.pptm
+Start: Sun Nov 21 22:05:26 2021
+Length: 97 KB (100093 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000158.jpg 	       2 KB 	      81382 	 
+1:	00000000.pptx 	      97 KB 	          0 	 
+Finish: Sun Nov 21 22:05:26 2021
+
+2 FILES EXTRACTED
+	
+jpg:= 1
+zip:= 1
+------------------------------------------------------------------
+
+Foremost finished at Sun Nov 21 22:05:26 2021

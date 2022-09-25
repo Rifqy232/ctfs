@@ -1,0 +1,24 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Fri Jul  1 23:26:20 2022
+Invocation: foremost 3.png 
+Output directory: /opt/hacking/ctfLearn/exclusivesanta/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: 3.png
+Start: Fri Jul  1 23:26:20 2022
+Length: 1 MB (1221575 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.png 	      51 KB 	          0 	  (1200 x 875)
+1:	00000102.png 	       1 MB 	      52406 	  (1280 x 720)
+Finish: Fri Jul  1 23:26:20 2022
+
+2 FILES EXTRACTED
+	
+png:= 2
+------------------------------------------------------------------
+
+Foremost finished at Fri Jul  1 23:26:20 2022

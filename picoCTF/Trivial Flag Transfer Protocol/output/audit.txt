@@ -1,0 +1,24 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sun Nov 21 22:32:45 2021
+Invocation: foremost tftp.pcapng 
+Output directory: /home/ryu/Documents/hacking/picoCTF/Trivial Flag Transfer Protocol/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: tftp.pcapng
+Start: Sun Nov 21 22:32:45 2021
+Length: 49 MB (52116496 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000367.bmp 	     805 KB 	     188254 	  (605 x 454)
+1:	00097963.bmp 	       1 MB 	   50157110 	  (807 x 605)
+Finish: Sun Nov 21 22:32:46 2021
+
+2 FILES EXTRACTED
+	
+bmp:= 2
+------------------------------------------------------------------
+
+Foremost finished at Sun Nov 21 22:32:46 2021
